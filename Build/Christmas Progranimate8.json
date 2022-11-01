@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ARWT",
+"productVersion": "0.1",
+"dataUrl": "Christmas Progranimate8.data.unityweb",
+"wasmCodeUrl": "Christmas Progranimate8.wasm.code.unityweb",
+"wasmFrameworkUrl": "Christmas Progranimate8.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
